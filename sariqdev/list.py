@@ -14,6 +14,6 @@ print(mevalar)
 
 doslar = ['murodjon', 'hamidullo', 'adash', 'saset']
 print(f'{doslar.pop().title()} qulupne sotamizmi')
-print(f'{doslar.pop().title()} bugun call of duty uynaymizmi')
+print(f'{doslar.pop().title()} bugun contre strike uynaymizmi')
 print(f'{doslar.pop().title()} nima gap')
 print(f'{doslar.pop().title()} domlani oldilariga boramizmi?')
